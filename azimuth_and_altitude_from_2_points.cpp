@@ -45,3 +45,5 @@ float getAltitude(float X1, float Y1, float Z1, float X2, float Y2, float Z2)
 	float altitude = atan2(z, distanceXY);
 	return altitude;
 }
+
+// ChatGPT 
