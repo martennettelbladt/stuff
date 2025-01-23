@@ -17,7 +17,7 @@ float getAzimuth(float X1, float Y1, float X2, float Y2)
 
 
 // Altitude from two 3D points. First point is origin
-// Returns value in the range [-pi/2, pi/2]
+// Returns angle in the range [-pi/2, pi/2]
 
 float getAltitude(float X1, float Y1, float Z1, float X2, float Y2, float Z2)
 {
