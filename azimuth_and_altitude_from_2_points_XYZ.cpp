@@ -1,7 +1,8 @@
 // Mårten Nettelbladt / 2025-01-23
 
-// Azimuth from two 2D points. First point is origin
 
+// Azimuth from two 2D points. First point is origin
+// Result as an angle in radians. 0 = X-axis. Full circle = 6.28 radians
 
 float getAzimuth(x1, y1, x2, y2)
 {
@@ -14,7 +15,8 @@ float getAzimuth(x1, y1, x2, y2)
 }
 
 
-// Altitude from two 3D points. First point is origin
+// Altitude from two 3D points. First point is origin.
+// Result as an angle in radians. 0 = Horizon, 3.14 = up, -3.14 = down.
 
 float getAltitude(x1, y1, z1, x2, y2, z2)
 {
