@@ -4,7 +4,7 @@
 // Azimuth from two 2D points. First point is origin
 // Result as an angle in radians. 0 = X-axis. Full circle = 6.28 radians
 
-float getAzimuth(x_1, y_1, x_2, y_2)
+float getAzimuth(x_1, Y1, x_2, y_2)
 {
 	x = x_2 - x_1;
 	y = y_2 - y_1;
