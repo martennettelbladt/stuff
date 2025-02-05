@@ -1,7 +1,6 @@
 The End Of The World / Skeeter Davis / 1962 / 
-Peggy notation: 
-↙  ←  ↖  ↑  ↗  →  *minor/major switch				
-Dm F  Am  C  Em G
+(Peggy notation: ↙Dm  ←F  ↖Am  ↑C  ↗Em  →G  *minor/major switch)	
+
 ------------------
 ↑   →   ↖   →
 C   G   Am  G
