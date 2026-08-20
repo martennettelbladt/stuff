@@ -1,5 +1,6 @@
 // Mårten Nettelbladt 2024
 // Function for calculating frequencies of the 91 notes used on a Hammond B3 Tonewheel Organ
+// More info here: https://www.goodeveca.net/RotorOrgan/ToneWheelSpec.html/
 
 #include <cmath>
 
@@ -140,5 +141,13 @@ Nr 88  , 4981.621582 Hz
 Nr 89  , 5280.000000 Hz 
 Nr 90  , 5593.043457 Hz 
 Nr 91  , 5924.571289 Hz 
+
+From the web page:
+This table shows how the exact frequencies that a Hammond organ produces are generated. 
+Starting from a driving shaft spinning at exactly 1200 RPM, a pair of gears drives each tone wheel 
+at a suitable rate for the teeth on the wheel to generate the desired wave. 
+The resultant frequencies are neither exactly equal-temperament (only the "A" note is exactly standard pitch) 
+nor exact harmonics of each other, but are close to both. 
+The deviations may contribute to the timbre of chords played on the instrument, however.
 
 */
